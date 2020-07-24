@@ -18,7 +18,9 @@ class test{
 			break;
 		case "Ed":
 			System.out.println("Hello Ed!");
-			
+			break;
+			default:
+				System.out.println("hello no one");
 		}
 	}
 }
