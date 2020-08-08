@@ -1,0 +1,3 @@
+Stream – A sequence of data.
+Input Stream: reads data from source.
+Output Stream: writes data to destination.
